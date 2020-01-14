@@ -25,7 +25,7 @@ Total 6480 BLE discovery events:</br>
 - 4 events > 60 sec & < 93 sec, 0.1%
 
 Conclusion: 99.9% BLE discovery within 30 sec. </br>
-![Excel Chart](https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/Pixel3.JPG)
+[https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/Pixel3.JPG](https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/Pixel3.JPG)
 
 ## Samsung S9 with Android 8.0.0 ##
 Tested 18 hours from 1:43AM to 20:14PM
@@ -37,7 +37,7 @@ Total 13270 BLE discovery events:</br>
 - 8 events > 10 sec & <= 45 sec, 0.04%
 
 Conclusion: 99.9% BLE discovery within 10 sec.</br>
-![Excel Chart](https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/SamsungS9.JPG)
+[https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/SamsungS9.JPG](https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/SamsungS9.JPG)
 
 ## Nexus 6P with Android 8.1.0 ##
 Tested 18.5 hours from 22:30PM to 17:09PM on 2nd day.
@@ -50,4 +50,4 @@ Total 13650 BLE discovery events:
 - 1 event > 60 sec & <= 90 sec, 0.01%
 
 Conclusion: 99.9% BLE discovery within 10 sec.</br>
-![Excel Chart](https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/Nexus6P.JPG)
+[https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/Nexus6P.JPG](https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/Nexus6P.JPG)
