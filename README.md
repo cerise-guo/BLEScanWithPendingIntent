@@ -64,3 +64,4 @@ Total 6450 BLE discovery events:</br>
 - 3 events > 60 sec & < 93 sec, 0.1%
 
 Conclusion: 99.9% BLE discovery within 30 sec. </br>
+[https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/SamsungTabS3.JPG](https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/SamsungTabS3.JPG "Excel Chart")
