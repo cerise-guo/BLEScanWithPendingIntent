@@ -51,3 +51,16 @@ Total 13650 BLE discovery events:
 
 Conclusion: 99.9% BLE discovery within 10 sec.</br>
 [https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/Nexus6P.JPG](https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/Nexus6P.JPG)
+
+## Samsung Tab S3 with Android 9 ##
+Tested 20 hours from 23:46 PM to 19:37 PM on 2nd day.
+Battery consumption from 47% to 30%
+
+Total 6450 BLE discovery events:</br>
+
+- 4790 events <= 10 sec, 74.23%
+- 1657 events > 10 sec & <= 30 sec, 25.7%
+- 3 events > 30 sec & <= 60 sec, 0.1%
+- 3 events > 60 sec & < 93 sec, 0.1%
+
+Conclusion: 99.9% BLE discovery within 30 sec. </br>
