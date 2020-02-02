@@ -72,7 +72,7 @@ Tested 49.5 hours from 22:22 PM to 23:59 PM on the 3nd day.
 Battery consumption from 100% to 88%
 
 Total 150 BLE discovery events:</br>
-<span style="color:orange">**In 99.7% hours, NO BLE discovery.**</span><br/>
+<span style="color:orange">**49.4 of 49.5 hours, 99.7% duration, has no BLE discovery.**</span><br/>
 In other time, discovery returns within 21 sec. 
 
 So, background mode is almost 100% prevented on this phone.
