@@ -65,3 +65,14 @@ Total 6450 BLE discovery events:</br>
 
 Conclusion: 99.9% BLE discovery within 30 sec. </br>
 [https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/SamsungTabS3.JPG](https://github.com/cerise-guo/BLEScanWithPendingIntent/blob/master/MyTestResult/SamsungTabS3.JPG "Excel Chart")
+
+
+## Samsung S10 with Android 9 ##
+Tested 49.5 hours from 22:22 PM to 23:59 PM on the 3nd day.
+Battery consumption from 100% to 88%
+
+Total 150 BLE discovery events:</br>
+<span style="color:orange">**In 99.7% hours, NO BLE discovery.**</span><br/>
+In other time, discovery returns within 21 sec. 
+
+So, background mode is almost 100% prevented on this phone.

@@ -1,0 +1,378 @@
+29 22:22:45:159 BLEDiscoveryReceiver : background scan callback: 1
+29 22:22:45:169 BLEDiscoveryReceiver : scan result: -55 , Nordic_Blinky
+29 22:22:50:007 BLEDiscoveryReceiver : background scan callback: 1
+29 22:22:50:016 BLEDiscoveryReceiver : scan result: -54 , Nordic_Blinky
+29 22:22:57:456 BLEDiscoveryReceiver : background scan callback: 1
+29 22:22:57:465 BLEDiscoveryReceiver : scan result: -55 , Nordic_Blinky
+29 22:23:02:034 BLEDiscoveryReceiver : background scan callback: 1
+29 22:23:02:044 BLEDiscoveryReceiver : scan result: -54 , Nordic_Blinky
+29 22:23:09:716 BLEDiscoveryReceiver : background scan callback: 1
+29 22:23:09:727 BLEDiscoveryReceiver : scan result: -55 , Nordic_Blinky
+29 22:23:14:033 BLEDiscoveryReceiver : background scan callback: 1
+29 22:23:14:042 BLEDiscoveryReceiver : scan result: -54 , Nordic_Blinky
+29 22:23:22:020 BLEDiscoveryReceiver : background scan callback: 1
+29 22:23:22:029 BLEDiscoveryReceiver : scan result: -55 , Nordic_Blinky
+29 22:23:30:181 BLEDiscoveryReceiver : background scan callback: 1
+29 22:23:30:190 BLEDiscoveryReceiver : scan result: -58 , Nordic_Blinky
+29 22:23:35:031 BLEDiscoveryReceiver : background scan callback: 1
+29 22:23:35:059 BLEDiscoveryReceiver : scan result: -56 , Nordic_Blinky
+29 22:23:42:473 BLEDiscoveryReceiver : background scan callback: 1
+29 22:23:42:489 BLEDiscoveryReceiver : scan result: -57 , Nordic_Blinky
+29 22:23:47:004 BLEDiscoveryReceiver : background scan callback: 1
+29 22:23:47:013 BLEDiscoveryReceiver : scan result: -58 , Nordic_Blinky
+29 22:23:54:745 BLEDiscoveryReceiver : background scan callback: 1
+29 22:23:54:754 BLEDiscoveryReceiver : scan result: -58 , Nordic_Blinky
+29 22:23:59:035 BLEDiscoveryReceiver : background scan callback: 1
+29 22:23:59:044 BLEDiscoveryReceiver : scan result: -58 , Nordic_Blinky
+29 22:24:07:083 BLEDiscoveryReceiver : background scan callback: 1
+29 22:24:07:092 BLEDiscoveryReceiver : scan result: -59 , Nordic_Blinky
+29 22:24:15:271 BLEDiscoveryReceiver : background scan callback: 1
+29 22:24:15:279 BLEDiscoveryReceiver : scan result: -56 , Nordic_Blinky
+29 22:24:20:004 BLEDiscoveryReceiver : background scan callback: 1
+29 22:24:20:014 BLEDiscoveryReceiver : scan result: -59 , Nordic_Blinky
+29 22:24:27:514 BLEDiscoveryReceiver : background scan callback: 1
+29 22:24:27:523 BLEDiscoveryReceiver : scan result: -56 , Nordic_Blinky
+29 22:24:32:004 BLEDiscoveryReceiver : background scan callback: 1
+29 22:24:32:014 BLEDiscoveryReceiver : scan result: -58 , Nordic_Blinky
+29 22:24:39:817 BLEDiscoveryReceiver : background scan callback: 1
+29 22:24:39:844 BLEDiscoveryReceiver : scan result: -55 , Nordic_Blinky
+29 22:24:44:012 BLEDiscoveryReceiver : background scan callback: 1
+29 22:24:44:019 BLEDiscoveryReceiver : scan result: -58 , Nordic_Blinky
+29 22:24:52:092 BLEDiscoveryReceiver : background scan callback: 1
+29 22:24:52:101 BLEDiscoveryReceiver : scan result: -56 , Nordic_Blinky
+29 22:24:57:015 BLEDiscoveryReceiver : background scan callback: 1
+29 22:24:57:025 BLEDiscoveryReceiver : scan result: -60 , Nordic_Blinky
+29 22:25:04:385 BLEDiscoveryReceiver : background scan callback: 1
+29 22:25:04:396 BLEDiscoveryReceiver : scan result: -58 , Nordic_Blinky
+29 22:25:09:029 BLEDiscoveryReceiver : background scan callback: 1
+29 22:25:09:041 BLEDiscoveryReceiver : scan result: -59 , Nordic_Blinky
+29 22:25:14:042 BLEDiscoveryReceiver : background scan callback: 1
+29 22:25:14:058 BLEDiscoveryReceiver : scan result: -60 , Nordic_Blinky
+29 22:25:19:028 BLEDiscoveryReceiver : background scan callback: 1
+29 22:25:19:032 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+29 22:25:24:013 BLEDiscoveryReceiver : background scan callback: 1
+29 22:25:24:017 BLEDiscoveryReceiver : scan result: -64 , Nordic_Blinky
+29 22:25:36:190 BLEDiscoveryReceiver : background scan callback: 1
+29 22:25:36:193 BLEDiscoveryReceiver : scan result: -58 , Nordic_Blinky
+29 22:25:46:583 BLEDiscoveryReceiver : background scan callback: 1
+29 22:25:46:590 BLEDiscoveryReceiver : scan result: -56 , Nordic_Blinky
+29 22:25:56:816 BLEDiscoveryReceiver : background scan callback: 1
+29 22:25:56:820 BLEDiscoveryReceiver : scan result: -56 , Nordic_Blinky
+29 22:26:07:003 BLEDiscoveryReceiver : background scan callback: 1
+29 22:26:07:006 BLEDiscoveryReceiver : scan result: -58 , Nordic_Blinky
+29 22:26:17:274 BLEDiscoveryReceiver : background scan callback: 1
+29 22:26:17:278 BLEDiscoveryReceiver : scan result: -60 , Nordic_Blinky
+29 22:26:27:526 BLEDiscoveryReceiver : background scan callback: 1
+29 22:26:27:532 BLEDiscoveryReceiver : scan result: -59 , Nordic_Blinky
+29 22:26:37:780 BLEDiscoveryReceiver : background scan callback: 1
+29 22:26:37:784 BLEDiscoveryReceiver : scan result: -60 , Nordic_Blinky
+29 22:26:47:993 BLEDiscoveryReceiver : background scan callback: 1
+29 22:26:47:996 BLEDiscoveryReceiver : scan result: -57 , Nordic_Blinky
+29 22:26:58:249 BLEDiscoveryReceiver : background scan callback: 1
+29 22:26:58:254 BLEDiscoveryReceiver : scan result: -60 , Nordic_Blinky
+29 22:27:08:466 BLEDiscoveryReceiver : background scan callback: 1
+29 22:27:08:471 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+29 22:27:18:697 BLEDiscoveryReceiver : background scan callback: 1
+29 22:27:18:703 BLEDiscoveryReceiver : scan result: -65 , Nordic_Blinky
+29 22:27:28:981 BLEDiscoveryReceiver : background scan callback: 1
+29 22:27:28:989 BLEDiscoveryReceiver : scan result: -59 , Nordic_Blinky
+29 22:27:39:220 BLEDiscoveryReceiver : background scan callback: 1
+29 22:27:39:223 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+29 22:27:49:406 BLEDiscoveryReceiver : background scan callback: 1
+29 22:27:49:410 BLEDiscoveryReceiver : scan result: -65 , Nordic_Blinky
+29 22:27:59:698 BLEDiscoveryReceiver : background scan callback: 1
+29 22:27:59:702 BLEDiscoveryReceiver : scan result: -63 , Nordic_Blinky
+29 22:28:09:944 BLEDiscoveryReceiver : background scan callback: 1
+29 22:28:09:947 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+29 22:28:20:142 BLEDiscoveryReceiver : background scan callback: 1
+29 22:28:20:146 BLEDiscoveryReceiver : scan result: -65 , Nordic_Blinky
+29 22:28:30:378 BLEDiscoveryReceiver : background scan callback: 1
+29 22:28:30:381 BLEDiscoveryReceiver : scan result: -63 , Nordic_Blinky
+29 22:28:40:654 BLEDiscoveryReceiver : background scan callback: 1
+29 22:28:40:657 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+29 22:28:50:887 BLEDiscoveryReceiver : background scan callback: 1
+29 22:28:50:890 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+29 22:29:01:105 BLEDiscoveryReceiver : background scan callback: 1
+29 22:29:01:109 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+29 22:29:11:384 BLEDiscoveryReceiver : background scan callback: 1
+
+30 03:28:40:024 BLEDiscoveryReceiver : background scan callback: 1
+30 03:28:40:027 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 03:28:52:137 BLEDiscoveryReceiver : background scan callback: 1
+30 03:28:52:142 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 03:29:02:411 BLEDiscoveryReceiver : background scan callback: 1
+30 03:29:02:418 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 03:29:12:642 BLEDiscoveryReceiver : background scan callback: 1
+30 03:29:12:647 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 03:29:22:917 BLEDiscoveryReceiver : background scan callback: 1
+30 03:29:22:920 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 03:29:33:133 BLEDiscoveryReceiver : background scan callback: 1
+30 03:29:33:137 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 03:29:43:442 BLEDiscoveryReceiver : background scan callback: 1
+30 03:29:43:448 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 03:29:53:639 BLEDiscoveryReceiver : background scan callback: 1
+30 03:29:53:643 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 03:30:03:808 BLEDiscoveryReceiver : background scan callback: 1
+30 03:30:03:811 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 03:30:14:068 BLEDiscoveryReceiver : background scan callback: 1
+30 03:30:14:076 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 03:30:24:331 BLEDiscoveryReceiver : background scan callback: 1
+30 03:30:24:334 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 03:30:34:558 BLEDiscoveryReceiver : background scan callback: 1
+30 03:30:34:561 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 03:30:44:825 BLEDiscoveryReceiver : background scan callback: 1
+30 03:30:44:828 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 03:30:55:044 BLEDiscoveryReceiver : background scan callback: 1
+30 03:30:55:048 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 03:31:05:302 BLEDiscoveryReceiver : background scan callback: 1
+30 03:31:05:308 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 03:31:15:493 BLEDiscoveryReceiver : background scan callback: 1
+30 03:31:15:496 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 03:31:25:758 BLEDiscoveryReceiver : background scan callback: 1
+30 03:31:25:761 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 03:31:35:989 BLEDiscoveryReceiver : background scan callback: 1
+30 03:31:35:994 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 03:31:46:278 BLEDiscoveryReceiver : background scan callback: 1
+30 03:31:46:281 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 03:31:56:470 BLEDiscoveryReceiver : background scan callback: 1
+
+30 17:27:48:135 BLEDiscoveryReceiver : background scan callback: 1
+30 17:27:48:139 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:28:00:333 BLEDiscoveryReceiver : background scan callback: 1
+30 17:28:00:338 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:28:10:585 BLEDiscoveryReceiver : background scan callback: 1
+30 17:28:10:589 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:28:20:789 BLEDiscoveryReceiver : background scan callback: 1
+30 17:28:20:793 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 17:28:31:085 BLEDiscoveryReceiver : background scan callback: 1
+30 17:28:31:088 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:28:41:211 BLEDiscoveryReceiver : background scan callback: 1
+30 17:28:41:219 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:28:51:481 BLEDiscoveryReceiver : background scan callback: 1
+30 17:28:51:487 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 17:29:01:734 BLEDiscoveryReceiver : background scan callback: 1
+30 17:29:01:737 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:29:11:975 BLEDiscoveryReceiver : background scan callback: 1
+30 17:29:11:982 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:29:22:217 BLEDiscoveryReceiver : background scan callback: 1
+30 17:29:22:225 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 17:29:32:429 BLEDiscoveryReceiver : background scan callback: 1
+30 17:29:32:434 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:29:42:724 BLEDiscoveryReceiver : background scan callback: 1
+30 17:29:42:729 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:29:52:903 BLEDiscoveryReceiver : background scan callback: 1
+30 17:29:52:907 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 17:30:03:158 BLEDiscoveryReceiver : background scan callback: 1
+30 17:30:03:162 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:30:13:426 BLEDiscoveryReceiver : background scan callback: 1
+30 17:30:13:433 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:30:23:601 BLEDiscoveryReceiver : background scan callback: 1
+30 17:30:23:604 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 17:30:33:872 BLEDiscoveryReceiver : background scan callback: 1
+30 17:30:33:877 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:30:44:125 BLEDiscoveryReceiver : background scan callback: 1
+30 17:30:44:131 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:30:54:386 BLEDiscoveryReceiver : background scan callback: 1
+30 17:30:54:391 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 17:31:04:585 BLEDiscoveryReceiver : background scan callback: 1
+30 17:31:04:592 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:31:14:872 BLEDiscoveryReceiver : background scan callback: 1
+30 17:31:14:876 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:31:25:083 BLEDiscoveryReceiver : background scan callback: 1
+30 17:31:25:087 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 17:31:35:332 BLEDiscoveryReceiver : background scan callback: 1
+30 17:31:35:337 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:31:45:591 BLEDiscoveryReceiver : background scan callback: 1
+30 17:31:45:610 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:31:55:788 BLEDiscoveryReceiver : background scan callback: 1
+30 17:31:55:793 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:32:06:057 BLEDiscoveryReceiver : background scan callback: 1
+30 17:32:06:060 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:32:16:284 BLEDiscoveryReceiver : background scan callback: 1
+30 17:32:16:288 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:32:26:550 BLEDiscoveryReceiver : background scan callback: 1
+30 17:32:26:555 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 17:32:36:726 BLEDiscoveryReceiver : background scan callback: 1
+30 17:32:36:730 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:32:47:008 BLEDiscoveryReceiver : background scan callback: 1
+30 17:32:47:019 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:32:57:223 BLEDiscoveryReceiver : background scan callback: 1
+30 17:32:57:227 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 17:33:07:543 BLEDiscoveryReceiver : background scan callback: 1
+30 17:33:07:548 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 17:33:17:739 BLEDiscoveryReceiver : background scan callback: 1
+30 17:33:17:744 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:33:27:941 BLEDiscoveryReceiver : background scan callback: 1
+30 17:33:27:945 BLEDiscoveryReceiver : scan result: -61 , Nordic_Blinky
+30 17:33:38:182 BLEDiscoveryReceiver : background scan callback: 1
+30 17:33:38:186 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+30 17:33:48:447 BLEDiscoveryReceiver : background scan callback: 1
+30 17:33:48:450 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:33:58:678 BLEDiscoveryReceiver : background scan callback: 1
+30 17:33:58:684 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 17:34:08:918 BLEDiscoveryReceiver : background scan callback: 1
+30 17:34:08:923 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 19:00:02:596 BLEDiscoveryReceiver : background scan callback: 1
+30 19:00:02:599 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 19:00:09:735 BLEDiscoveryReceiver : background scan callback: 1
+30 19:00:09:744 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 19:00:19:929 BLEDiscoveryReceiver : background scan callback: 1
+30 19:00:19:933 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 19:00:30:192 BLEDiscoveryReceiver : background scan callback: 1
+30 19:00:30:196 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 19:00:40:487 BLEDiscoveryReceiver : background scan callback: 1
+30 19:00:40:492 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 19:00:50:649 BLEDiscoveryReceiver : background scan callback: 1
+30 19:00:50:656 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 19:01:00:959 BLEDiscoveryReceiver : background scan callback: 1
+30 19:01:00:962 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 19:01:11:127 BLEDiscoveryReceiver : background scan callback: 1
+30 19:01:11:133 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 19:01:21:383 BLEDiscoveryReceiver : background scan callback: 1
+30 19:01:21:388 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+30 19:01:31:643 BLEDiscoveryReceiver : background scan callback: 1
+30 19:01:31:646 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 19:01:41:857 BLEDiscoveryReceiver : background scan callback: 1
+30 19:01:41:861 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+30 19:01:52:097 BLEDiscoveryReceiver : background scan callback: 1
+
+31 03:28:40:353 BLEDiscoveryReceiver : background scan callback: 1
+31 03:28:40:356 BLEDiscoveryReceiver : scan result: -64 , Nordic_Blinky
+31 03:28:54:059 BLEDiscoveryReceiver : background scan callback: 1
+31 03:28:54:063 BLEDiscoveryReceiver : scan result: -75 , Nordic_Blinky
+31 07:00:01:389 BLEDiscoveryReceiver : background scan callback: 1
+31 07:00:01:392 BLEDiscoveryReceiver : scan result: -64 , Nordic_Blinky
+31 07:00:10:706 BLEDiscoveryReceiver : background scan callback: 1
+31 07:00:10:710 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+31 07:00:20:952 BLEDiscoveryReceiver : background scan callback: 1
+31 07:00:20:956 BLEDiscoveryReceiver : scan result: -75 , Nordic_Blinky
+31 07:00:31:139 BLEDiscoveryReceiver : background scan callback: 1
+31 07:00:31:143 BLEDiscoveryReceiver : scan result: -64 , Nordic_Blinky
+31 07:00:41:414 BLEDiscoveryReceiver : background scan callback: 1
+31 07:00:41:418 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+31 07:00:51:642 BLEDiscoveryReceiver : background scan callback: 1
+31 07:00:51:645 BLEDiscoveryReceiver : scan result: -75 , Nordic_Blinky
+31 07:01:01:914 BLEDiscoveryReceiver : background scan callback: 1
+31 07:01:01:918 BLEDiscoveryReceiver : scan result: -64 , Nordic_Blinky
+31 07:01:12:160 BLEDiscoveryReceiver : background scan callback: 1
+31 07:01:12:169 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+31 07:01:22:396 BLEDiscoveryReceiver : background scan callback: 1
+31 07:01:22:400 BLEDiscoveryReceiver : scan result: -75 , Nordic_Blinky
+31 07:01:32:642 BLEDiscoveryReceiver : background scan callback: 1
+31 07:01:32:647 BLEDiscoveryReceiver : scan result: -64 , Nordic_Blinky
+31 07:01:42:849 BLEDiscoveryReceiver : background scan callback: 1
+31 07:01:42:854 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+31 07:01:53:153 BLEDiscoveryReceiver : background scan callback: 1
+31 07:01:53:156 BLEDiscoveryReceiver : scan result: -75 , Nordic_Blinky
+31 07:02:03:373 BLEDiscoveryReceiver : background scan callback: 1
+31 07:02:03:377 BLEDiscoveryReceiver : scan result: -64 , Nordic_Blinky
+31 07:02:13:574 BLEDiscoveryReceiver : background scan callback: 1
+31 07:02:13:578 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+31 07:02:23:841 BLEDiscoveryReceiver : background scan callback: 1
+31 07:02:23:844 BLEDiscoveryReceiver : scan result: -75 , Nordic_Blinky
+31 07:02:34:103 BLEDiscoveryReceiver : background scan callback: 1
+31 07:02:34:108 BLEDiscoveryReceiver : scan result: -64 , Nordic_Blinky
+31 07:02:44:297 BLEDiscoveryReceiver : background scan callback: 1
+31 07:02:44:307 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+31 07:02:54:548 BLEDiscoveryReceiver : background scan callback: 1
+31 07:02:54:558 BLEDiscoveryReceiver : scan result: -75 , Nordic_Blinky
+31 07:03:04:808 BLEDiscoveryReceiver : background scan callback: 1
+31 07:03:04:811 BLEDiscoveryReceiver : scan result: -64 , Nordic_Blinky
+31 07:03:15:009 BLEDiscoveryReceiver : background scan callback: 1
+31 07:03:15:013 BLEDiscoveryReceiver : scan result: -62 , Nordic_Blinky
+31 07:03:25:270 BLEDiscoveryReceiver : background scan callback: 1
+31 07:03:25:273 BLEDiscoveryReceiver : scan result: -75 , Nordic_Blinky
+31 07:03:35:516 BLEDiscoveryReceiver : background scan callback: 1
+31 07:03:35:520 BLEDiscoveryReceiver : scan result: -64 , Nordic_Blinky
+31 19:00:01:846 BLEDiscoveryReceiver : background scan callback: 1
+31 19:00:01:850 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+31 19:00:11:606 BLEDiscoveryReceiver : background scan callback: 1
+31 19:00:11:609 BLEDiscoveryReceiver : scan result: -72 , Nordic_Blinky
+31 19:00:21:851 BLEDiscoveryReceiver : background scan callback: 1
+31 19:00:21:854 BLEDiscoveryReceiver : scan result: -71 , Nordic_Blinky
+31 19:00:32:076 BLEDiscoveryReceiver : background scan callback: 1
+31 19:00:32:080 BLEDiscoveryReceiver : scan result: -69 , Nordic_Blinky
+31 19:00:42:344 BLEDiscoveryReceiver : background scan callback: 1
+31 19:00:42:347 BLEDiscoveryReceiver : scan result: -80 , Nordic_Blinky
+31 19:00:52:567 BLEDiscoveryReceiver : background scan callback: 1
+31 19:00:52:576 BLEDiscoveryReceiver : scan result: -79 , Nordic_Blinky
+31 19:01:02:797 BLEDiscoveryReceiver : background scan callback: 1
+31 19:01:02:800 BLEDiscoveryReceiver : scan result: -78 , Nordic_Blinky
+31 19:01:13:058 BLEDiscoveryReceiver : background scan callback: 1
+31 19:01:13:061 BLEDiscoveryReceiver : scan result: -86 , Nordic_Blinky
+31 19:01:23:297 BLEDiscoveryReceiver : background scan callback: 1
+31 19:01:23:301 BLEDiscoveryReceiver : scan result: -75 , Nordic_Blinky
+31 19:01:33:537 BLEDiscoveryReceiver : background scan callback: 1
+31 19:01:33:540 BLEDiscoveryReceiver : scan result: -71 , Nordic_Blinky
+31 19:01:54:018 BLEDiscoveryReceiver : background scan callback: 1
+31 19:01:54:021 BLEDiscoveryReceiver : scan result: -78 , Nordic_Blinky
+31 19:02:04:248 BLEDiscoveryReceiver : background scan callback: 1
+31 19:02:04:252 BLEDiscoveryReceiver : scan result: -73 , Nordic_Blinky
+31 19:02:14:497 BLEDiscoveryReceiver : background scan callback: 1
+31 19:02:14:500 BLEDiscoveryReceiver : scan result: -81 , Nordic_Blinky
+31 19:02:24:740 BLEDiscoveryReceiver : background scan callback: 1
+31 19:02:24:743 BLEDiscoveryReceiver : scan result: -82 , Nordic_Blinky
+31 19:02:35:008 BLEDiscoveryReceiver : background scan callback: 1
+31 19:02:35:011 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+31 19:02:45:253 BLEDiscoveryReceiver : background scan callback: 1
+31 19:02:45:260 BLEDiscoveryReceiver : scan result: -82 , Nordic_Blinky
+31 19:02:55:450 BLEDiscoveryReceiver : background scan callback: 1
+31 19:02:55:453 BLEDiscoveryReceiver : scan result: -77 , Nordic_Blinky
+31 19:03:05:692 BLEDiscoveryReceiver : background scan callback: 1
+31 19:03:05:694 BLEDiscoveryReceiver : scan result: -60 , Nordic_Blinky
+31 19:03:15:929 BLEDiscoveryReceiver : background scan callback: 1
+31 19:03:15:934 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:03:26:166 BLEDiscoveryReceiver : background scan callback: 1
+31 19:03:26:169 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+31 19:03:36:393 BLEDiscoveryReceiver : background scan callback: 1
+31 19:03:36:396 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:03:46:666 BLEDiscoveryReceiver : background scan callback: 1
+31 19:03:46:669 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:03:56:883 BLEDiscoveryReceiver : background scan callback: 1
+31 19:03:56:886 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+31 19:04:07:156 BLEDiscoveryReceiver : background scan callback: 1
+31 19:04:07:159 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:04:17:350 BLEDiscoveryReceiver : background scan callback: 1
+31 19:04:17:353 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:04:27:597 BLEDiscoveryReceiver : background scan callback: 1
+31 19:04:27:605 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+31 19:04:37:846 BLEDiscoveryReceiver : background scan callback: 1
+31 19:04:37:849 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:04:48:103 BLEDiscoveryReceiver : background scan callback: 1
+31 19:04:48:108 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:04:58:324 BLEDiscoveryReceiver : background scan callback: 1
+31 19:04:58:330 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+31 19:05:08:571 BLEDiscoveryReceiver : background scan callback: 1
+31 19:05:08:575 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:05:18:797 BLEDiscoveryReceiver : background scan callback: 1
+31 19:05:18:801 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:05:29:042 BLEDiscoveryReceiver : background scan callback: 1
+31 19:05:29:045 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+31 19:05:39:310 BLEDiscoveryReceiver : background scan callback: 1
+31 19:05:39:313 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:05:49:533 BLEDiscoveryReceiver : background scan callback: 1
+31 19:05:49:536 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:05:59:754 BLEDiscoveryReceiver : background scan callback: 1
+31 19:05:59:757 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+31 19:06:10:039 BLEDiscoveryReceiver : background scan callback: 1
+31 19:06:10:046 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:06:20:250 BLEDiscoveryReceiver : background scan callback: 1
+31 19:06:20:253 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:06:30:497 BLEDiscoveryReceiver : background scan callback: 1
+31 19:06:30:500 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+31 19:06:40:759 BLEDiscoveryReceiver : background scan callback: 1
+31 19:06:40:764 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:06:50:980 BLEDiscoveryReceiver : background scan callback: 1
+31 19:06:50:983 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:07:01:205 BLEDiscoveryReceiver : background scan callback: 1
+31 19:07:01:208 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+31 19:07:11:443 BLEDiscoveryReceiver : background scan callback: 1
+31 19:07:11:447 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:07:21:694 BLEDiscoveryReceiver : background scan callback: 1
+31 19:07:21:700 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:07:31:896 BLEDiscoveryReceiver : background scan callback: 1
+31 19:07:31:901 BLEDiscoveryReceiver : scan result: -70 , Nordic_Blinky
+31 19:07:42:171 BLEDiscoveryReceiver : background scan callback: 1
+31 19:07:42:176 BLEDiscoveryReceiver : scan result: -66 , Nordic_Blinky
+31 19:07:52:397 BLEDiscoveryReceiver : background scan callback: 1
+
